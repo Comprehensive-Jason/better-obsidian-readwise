@@ -2,7 +2,7 @@
 
 ![beta](https://img.shields.io/badge/version-beta-orange)
 
-This unofficial plugin NOT maintained by the [Readwise](https://readwise.io) team enables you to easily and automatically export all your digital highlights to [Obsidian](https://obsidian.md) from a variety of sources such as Amazon Kindle, Apple Books, Google Play Books, Instapaper, Pocket, Medium, Twitter, PDFs, and more.
+This unofficial plugin NOT maintained by the Readwise team enables you to easily and automatically export all your digital highlights to [Obsidian](https://obsidian.md) from a variety of sources such as Amazon Kindle, Apple Books, Google Play Books, Instapaper, Pocket, Medium, Twitter, PDFs, and more.
 
 ![](https://raw.githubusercontent.com/readwiseio/obsidian-readwise/master/screens/readwise_obsidian_export.gif)
 
