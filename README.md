@@ -2,7 +2,7 @@
 
 ![beta](https://img.shields.io/badge/version-beta-orange)
 
-This official plugin maintained by the [Readwise](https://readwise.io) team enables you to easily and automatically export all your digital highlights to [Obsidian](https://obsidian.md) from a variety of sources such as Amazon Kindle, Apple Books, Google Play Books, Instapaper, Pocket, Medium, Twitter, PDFs, and more.
+This unofficial plugin NOT maintained by the [Readwise](https://readwise.io) team enables you to easily and automatically export all your digital highlights to [Obsidian](https://obsidian.md) from a variety of sources such as Amazon Kindle, Apple Books, Google Play Books, Instapaper, Pocket, Medium, Twitter, PDFs, and more.
 
 ![](https://raw.githubusercontent.com/readwiseio/obsidian-readwise/master/screens/readwise_obsidian_export.gif)
 
@@ -19,16 +19,12 @@ Note: This plugin requires a subscription with [Readwise](https://readwise.io) â
 
 ## Usage
 
-* Install the Readwise Official plugin within Obsidian
+* Install the Improved Readwise plugin within Obsidian
 * Enable the plugin
 * Connect the plugin to your Readwise account
 * Customize the export settings, if desired
 * Initiate the first sync
 * Thereafter, the plugin can be configured to sync automatically or manually
-
-## Support
-
-* Please see our [Documentation](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work) or email us at hello@readwise.io ðŸ™‚
 
 ## Community Resources
 
