@@ -1,10 +1,10 @@
 {
 	"id": "readwise-official",
-	"name": "Readwise Official",
-	"version": "2.0.1",
+	"name": "Improved Readwise",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.10",
-	"description": "Official Readwise <-> Obsidian integration",
-	"author": "Readwise",
-	"authorUrl": "https://readwise.io",
+	"description": "Improved Readwise <-> Obsidian integration",
+	"author": "Jason Qin",
+	"authorUrl": "https://github.com/Comprehensive-Jason/better-obsidian-readwise",
 	"isDesktopOnly": false
 }
