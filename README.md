@@ -1,4 +1,4 @@
-# Readwise Official 📚
+# Improved Obsidian - Readwise Plugin 📚
 
 ![beta](https://img.shields.io/badge/version-beta-orange)
 
