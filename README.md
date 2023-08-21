@@ -15,7 +15,6 @@ Note: This plugin requires a subscription with [Readwise](https://readwise.io) �
 * **Continuous, automatic syncing** — Take a highlight while reading in bed and wake up to the highlight in your Obsidian vault
 * **Powerful, flexible templating** — Customize the format of the export to your bespoke preferences using the Jinja2 templating language
 * **Enriched metadata** — Upgrade your highlight exports with extra data including the cover image, original URL, author name, chapter headings, tags (taken while you read), and more
-* **Premium support** — As a paid product, receive prompt replies to your questions and continuous upgrades to the plugin per your feedback
 
 ## Usage
 
